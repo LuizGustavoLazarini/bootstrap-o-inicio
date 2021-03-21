@@ -1,0 +1,11 @@
+.navbar {
+    background-color:rgba(5, 160, 180, 0.637);
+}
+.quem-somos{
+    background-color: aqua;
+}
+
+.margin{
+    /*margin-top: 30px; deixa com um espaço em o top e o texto*/ 
+    padding-top: 30px; /*preenche o espaço do topo e o texto*/
+}
